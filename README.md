@@ -1,4 +1,4 @@
-##lIGHTHOUSE RESULT GENERATOR
+# Result Generator
 
 ## [Simple React Admin template](https://react-admin-template.netlify.com/) :boom: :ok_hand: :star:
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b9dc8cf2-fb7a-4def-824e-42a370a36df5/deploy-status)](https://app.netlify.com/sites/react-admin-template/deploys)
